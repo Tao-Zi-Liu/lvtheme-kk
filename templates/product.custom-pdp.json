@@ -1,0 +1,345 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "judge_me_reviews_preview_badge_tyKQr6": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "optis_product_options_option_set_caKKDi": {
+          "type": "shopify://apps/optis-product-options/blocks/option-set/2c446099-c349-4e73-80cd-49c9770b7807",
+          "disabled": true,
+          "settings": {}
+        },
+        "variant_picker_GXBGnp": {
+          "type": "variant-picker",
+          "settings": {
+            "show_single": false,
+            "selector_style": "listed",
+            "dynamic_availability": "show",
+            "enable_size_chart": false,
+            "size_chart_label": "Size guide",
+            "size_chart_variant": "Size",
+            "size_chart_page": ""
+          }
+        },
+        "sku_cUAHHz": {
+          "type": "sku",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "tepo_product_options_product_app_block_4tWwWC": {
+          "type": "shopify://apps/tepo-product-options/blocks/product-app-block/906ef57c-14e4-45d8-8b53-3ba7349d56a6",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": false,
+            "show_backorder_text": false,
+            "show_pickup_availability": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_preview_badge_tyKQr6",
+        "vendor",
+        "title",
+        "optis_product_options_option_set_caKKDi",
+        "variant_picker_GXBGnp",
+        "sku_cUAHHz",
+        "divider",
+        "tepo_product_options_product_app_block_4tWwWC",
+        "buy-buttons",
+        "description"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "select_first_variant": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "enable_sticky_atc": true,
+        "sticky_atc_position": "end",
+        "sticky_atc_mobile": true,
+        "sticky_atc_behavior": "add_to_cart",
+        "sticky_atc_button_style": "primary",
+        "gallery_size": "medium",
+        "gallery_layout": "collage-1",
+        "enable_zoom": true,
+        "show_alt_text": false,
+        "alt_text_icon": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "enable_media_grouping": false,
+        "media_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "look_at_the_details_TLBkbk": {
+      "type": "look-at-the-details",
+      "custom_css": [],
+      "name": "Look at the details",
+      "settings": {
+        "heading_text_1": "Look at",
+        "heading_text_2": "The Details",
+        "heading_color_1": "#68699a",
+        "paragraph": "Each detail is thoughtfully refined to deliver a natural, effortless look that feels as good as it appears."
+      }
+    },
+    "gallery_look_4XhwXA": {
+      "type": "gallery-look",
+      "blocks": {
+        "gallery_look_card_KJQVNY": {
+          "type": "gallery_look_card",
+          "repeater": "{{ product.metafields.custom.gallery_look.value }}",
+          "settings": {
+            "gallery_look_image": "{{ block.repeater.gallery_image.value }}"
+          }
+        }
+      },
+      "block_order": [
+        "gallery_look_card_KJQVNY"
+      ],
+      "name": "Gallery Look",
+      "settings": {
+        "heading_text_1": "Real Users. Real Styles.",
+        "heading_text_2": "Real Confidence.",
+        "heading_color_1": "#68699a",
+        "paragraph": "",
+        "padding_top_desktop": 64,
+        "padding_bottom_desktop": 64,
+        "padding_top_mobile": 40,
+        "padding_bottom_mobile": 40
+      }
+    },
+    "kik_image_text_grid_VxfkJR": {
+      "type": "kik-image-text-grid",
+      "name": "kik Image Text Grid",
+      "settings": {
+        "title": "",
+        "padding_top_desktop": 64,
+        "padding_bottom_desktop": 0,
+        "padding_top_mobile": 48,
+        "padding_bottom_mobile": 0,
+        "heading_text_1": "Real Results",
+        "heading_text_2": "From Real Men",
+        "heading_color_1": "#68699a",
+        "heading_color_2": "#000000",
+        "description": "",
+        "button_label": "",
+        "button_link": "#",
+        "button_style": "link",
+        "columns_desktop": 3,
+        "columns_tablet": 2,
+        "columns_mobile": 1,
+        "gap_size": 24,
+        "text_alignment": "left",
+        "background_color": "",
+        "padding_top": "none",
+        "padding_bottom": "none"
+      }
+    },
+    "1763367265f866aad6": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_HYXg3U": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_HYXg3U"
+      ],
+      "custom_css": [
+        "a {text-transform: uppercase;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "show_space": true
+      }
+    },
+    "firework_feed_KePhj4": {
+      "type": "firework-feed",
+      "name": "Firework Feed",
+      "settings": {
+        "class-name": "firework-feed-section",
+        "heading_text_1": "Get Inspired",
+        "heading_text_2": "By Real Review",
+        "heading_color_1": "#68699a",
+        "heading_color_2": "#000000",
+        "padding_top_desktop": 64,
+        "padding_bottom_desktop": 64,
+        "padding_top_mobile": 48,
+        "padding_bottom_mobile": 48,
+        "playlist": "5bJBa2",
+        "channel": "lavivid_hair",
+        "mode": "row",
+        "open_in": "default",
+        "max_videos": 0,
+        "placement": "middle",
+        "player_placement": "bottom-left"
+      }
+    },
+    "product_collapsible_tabs_fbNfqd": {
+      "type": "product-collapsible-tabs",
+      "blocks": {
+        "question_KmxCbY": {
+          "type": "question",
+          "repeater": "{{ product.metafields.custom.product_faq_items.value }}",
+          "settings": {
+            "title": "{{ block.repeater.question.value }}",
+            "answer": "{{ block.repeater.answer | metafield_tag }}"
+          }
+        }
+      },
+      "block_order": [
+        "question_KmxCbY"
+      ],
+      "name": "Product Collapsible tabs",
+      "settings": {
+        "title": "<span>Frequently</span> Asked Questions"
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading_text_1": "Explore More",
+        "heading_text_2": "Styles",
+        "heading_color_1": "#68699a",
+        "heading_color_2": "#0a0a0a",
+        "show_vendor": true,
+        "grid": 4
+      }
+    },
+    "multi_column_jEKUHa": {
+      "type": "multi-column",
+      "blocks": {
+        "text_block_RxcJaJ": {
+          "type": "text_block",
+          "settings": {
+            "text_style": "body-3",
+            "mobile_text_style": "mobile-body-3",
+            "enable_media": true,
+            "image": "shopify://shop_images/icon-free-shipping.svg",
+            "title": "Free Shipping",
+            "text": "<p>Fast, reliable delivery on every order.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_JMNCin": {
+          "type": "text_block",
+          "settings": {
+            "text_style": "body-3",
+            "mobile_text_style": "mobile-body-3",
+            "enable_media": true,
+            "image": "shopify://shop_images/icon-secure-payment.svg",
+            "title": "Secure Payment",
+            "text": "<p>Shop confidently with encrypted checkout.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_ezffQr": {
+          "type": "text_block",
+          "settings": {
+            "text_style": "body-3",
+            "mobile_text_style": "mobile-body-3",
+            "enable_media": true,
+            "image": "shopify://shop_images/icon-quality-guaranteed.svg",
+            "title": "Quality Guaranteed",
+            "text": "<p>Expertly crafted systems built for natural realism and long-lasting wear.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_eXtVQq": {
+          "type": "text_block",
+          "settings": {
+            "text_style": "body-3",
+            "mobile_text_style": "mobile-body-3",
+            "enable_media": true,
+            "image": "shopify://shop_images/icon-45-day-money-back.svg",
+            "title": "45-day Money Back",
+            "text": "<p>Try risk-free with our hassle-free return policy.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_RxcJaJ",
+        "text_block_JMNCin",
+        "text_block_ezffQr",
+        "text_block_eXtVQq"
+      ],
+      "settings": {
+        "class-name": "usp-icon-section",
+        "padding_top_desktop": 32,
+        "padding_bottom_desktop": 32,
+        "padding_top_mobile": 48,
+        "padding_bottom_mobile": 48,
+        "columns": "2",
+        "title": "",
+        "media_aspect_ratio": "1",
+        "media_width": 60,
+        "text_alignment": "center",
+        "button_style": "primary",
+        "color_scheme": "1"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "look_at_the_details_TLBkbk",
+    "gallery_look_4XhwXA",
+    "kik_image_text_grid_VxfkJR",
+    "1763367265f866aad6",
+    "firework_feed_KePhj4",
+    "product_collapsible_tabs_fbNfqd",
+    "related-products",
+    "multi_column_jEKUHa"
+  ]
+}

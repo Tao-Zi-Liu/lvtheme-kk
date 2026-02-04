@@ -1,0 +1,488 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "full_width": false
+      }
+    },
+    "background_video_mrVMmc": {
+      "type": "background-video",
+      "name": "Background video",
+      "settings": {
+        "video_shopify": "shopify://files/videos/lowdensity.mp4",
+        "video_external": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_description": "",
+        "text_alignment": "center center",
+        "height_desktop": 600,
+        "height_mobile": 500,
+        "full_width": true,
+        "overlay_style": "shadow"
+      }
+    },
+    "common_heading_a8gpFp": {
+      "type": "common-heading",
+      "name": "标题 Heading",
+      "settings": {
+        "title": "LaVivid’s New Ultra-Natural See-Through Hair",
+        "title_tag": "h2",
+        "title_size": "medium",
+        "title_color": "",
+        "subtitle": "",
+        "subtitle_tag": "p",
+        "subtitle_size": "medium",
+        "subtitle_color": "",
+        "align": "center",
+        "container_width": "standard",
+        "container_padding": "medium",
+        "spacing_top": "medium",
+        "spacing_bottom": "none",
+        "background_color": ""
+      }
+    },
+    "custom_content_3cga8T": {
+      "type": "custom-content",
+      "blocks": {
+        "video_Be68Hk": {
+          "type": "video",
+          "settings": {
+            "width": "half",
+            "video_external": "https://www.youtube.com/watch?v=5prFI8xPVS4",
+            "video_description": "",
+            "autoplay": false,
+            "placeholder_image": "shopify://shop_images/video.webp"
+          }
+        },
+        "html_H7NdmR": {
+          "type": "html",
+          "settings": {
+            "width": "half",
+            "code": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <title>Right List (Converted from Tailwind)</title>\n  <style>\n    .list-container {\n      display: flex;\n      flex-direction: column;\n      justify-content: space-between; /* 纵向等分 */\n      height: 100%;\n    }\n    .list-item {\n      display: flex;               /* flex */\n      height: 100%;                /* h-full */\n      max-height: 4.5rem;          /* max-h-18 -> 72px */\n      width: 100%;                 /* w-full */\n      align-items: center;         /* items-center */\n      border-top-left-radius: 3rem;   /* rounded-l-[3rem] */\n      border-bottom-left-radius: 3rem;/* rounded-l-[3rem] */\n      border-top-right-radius: 15px;   /* rounded-r-15 */\n      border-bottom-right-radius: 15px;/* rounded-r-15 */\n      padding-top: 0.375rem;       /* py-1.5 -> 6px */\n      padding-bottom: 0.375rem;    /* py-1.5 */\n      padding-right: 0.5rem;       /* pr-2 -> 8px */\n      padding-left: 1.5rem;        /* pl-6 -> 24px */\n      font-size: 1.25rem;          /* text-xl */\n      line-height: 1.75rem;        /* text-xl 默认行高 */\n      margin-bottom: 1rem;         /* mb-4 -> 16px */\n      box-sizing: border-box;\n    }\n    @media (min-width: 768px) {\n      .list-item {\n        margin-bottom: 1.25rem;\n      }\n    }\n    .img-leading {\n      margin-right: 0.75rem; /* 12px */\n      display: inline-block;\n    }\n  </style>\n</head>\n<body>\n  <div class=\"list-container\">\n    <div class=\"list-item\" style=\"color:#fff; background:#6FAFBE;\">\n      <img class=\"img-leading\" loading=\"lazy\" src=\"https://d23tttlodvxe00.cloudfront.net/img/cms/campaign/lowDensityMensHairSystems/icon1.webp\" width=\"62\" height=\"62\" alt=\"See-Through Effect\">\n      See-Through Effect\n    </div>\n    <div class=\"list-item\" style=\"color:#fff; background:#6FAFBE;\">\n      <img class=\"img-leading\" loading=\"lazy\" src=\"https://d23tttlodvxe00.cloudfront.net/img/cms/campaign/lowDensityMensHairSystems/icon2.webp\" width=\"62\" height=\"62\" alt=\"More Natural Hairline\">\n      More Natural Hairline\n    </div>\n    <div class=\"list-item\" style=\"color:#fff; background:#6FAFBE;\">\n      <img class=\"img-leading\" loading=\"lazy\" src=\"https://d23tttlodvxe00.cloudfront.net/img/cms/campaign/lowDensityMensHairSystems/icon3.webp\" width=\"62\" height=\"62\" alt=\"Ultra Light Weight\">\n      Ultra Light Weight\n    </div>\n    <div class=\"list-item\" style=\"color:#fff; background:#6FAFBE;\">\n      <img class=\"img-leading\" loading=\"lazy\" src=\"https://d23tttlodvxe00.cloudfront.net/img/cms/campaign/lowDensityMensHairSystems/icon4.webp\" width=\"62\" height=\"62\" alt=\"Summer-Friendly Design\">\n      Summer-Friendly Design\n    </div>\n\n    <!-- <div class=\"list-item\" style=\"color:#1d1e20; background:#E6F8FF; font-size:1rem;\">\n      <img class=\"img-leading\" loading=\"lazy\" src=\"https://d23tttlodvxe00.cloudfront.net/img/cms/campaign/lowDensityMensHairSystems/icon5.webp\" width=\"4\" height=\"4\" alt=\"Men who prefer a more natural, less bulky look\">\n      Men who prefer a more natural, less bulky look\n    </div>\n    <div class=\"list-item\" style=\"color:#1d1e20; background:#E6F8FF; font-size:1rem;\">\n      <img class=\"img-leading\" loading=\"lazy\" src=\"https://d23tttlodvxe00.cloudfront.net/img/cms/campaign/lowDensityMensHairSystems/icon5.webp\" width=\"4\" height=\"4\" alt=\"First-time hair system wearers\">\n      First-time hair system wearers\n    </div>\n    <div class=\"list-item\" style=\"color:#1d1e20; background:#E6F8FF; font-size:1rem;\">\n      <img class=\"img-leading\" loading=\"lazy\" src=\"https://d23tttlodvxe00.cloudfront.net/img/cms/campaign/lowDensityMensHairSystems/icon5.webp\" width=\"4\" height=\"4\" alt=\"People living in hot or humid climates\">\n      People living in hot or humid climates\n    </div>\n    <div class=\"list-item\" style=\"color:#1d1e20; background:#E6F8FF; font-size:1rem;\">\n      <img class=\"img-leading\" loading=\"lazy\" src=\"https://d23tttlodvxe00.cloudfront.net/img/cms/campaign/lowDensityMensHairSystems/icon5.webp\" width=\"4\" height=\"4\" alt=\"Active lifestyles (e.g., gym, sports, outdoor work)\">\n      Active lifestyles (e.g., gym, sports, outdoor work)\n    </div> -->\n  </div>\n</body>\n</html>"
+          }
+        }
+      },
+      "block_order": [
+        "video_Be68Hk",
+        "html_H7NdmR"
+      ],
+      "name": "Custom content",
+      "settings": {
+        "spacing": "medium",
+        "alignment": "middle",
+        "color_scheme": "default"
+      }
+    },
+    "common_heading_eDqxG8": {
+      "type": "common-heading",
+      "name": "标题 Heading",
+      "settings": {
+        "title": "Low Density Collection",
+        "title_tag": "h2",
+        "title_size": "medium",
+        "title_color": "",
+        "subtitle": "",
+        "subtitle_tag": "p",
+        "subtitle_size": "medium",
+        "subtitle_color": "",
+        "align": "center",
+        "container_width": "standard",
+        "container_padding": "medium",
+        "spacing_top": "none",
+        "spacing_bottom": "none",
+        "background_color": ""
+      }
+    },
+    "product_grid_flash_gpB7P6": {
+      "type": "product-grid-flash",
+      "blocks": {
+        "product_item_pjGzMM": {
+          "type": "product_item",
+          "settings": {
+            "parent_tab_number": 1,
+            "product": "natural-graduated-density-hairline-full-lace-base",
+            "custom_image": "shopify://shop_images/Mars.webp",
+            "custom_title": "Mars 80%- 90% Density",
+            "custom_description": "",
+            "custom_compare_price": "",
+            "custom_discount_percent": 0,
+            "custom_class": "",
+            "shopify_attributes": ""
+          }
+        },
+        "product_item_qQHYRG": {
+          "type": "product_item",
+          "settings": {
+            "parent_tab_number": 1,
+            "product": "light-crius-ultra-natural-see-through-hair-breathable-french-lace-center-with-durable-poly-perimeter",
+            "custom_image": "shopify://shop_images/notus-low-density-graduated-hairline-breathable-french-lace-center-with-durable-poly-perimeter_7d888c2c-139f-4b21-9e08-2095fbf833d5.jpg",
+            "custom_title": "Light Crius 80%- 85% Density",
+            "custom_description": "",
+            "custom_compare_price": "",
+            "custom_discount_percent": 0,
+            "custom_class": "",
+            "shopify_attributes": ""
+          }
+        },
+        "product_item_dnTiRw": {
+          "type": "product_item",
+          "settings": {
+            "parent_tab_number": 1,
+            "product": "upgrade-ares-ultra-natural-see-through-hair-french-lace-center-with-skin-perimeter",
+            "custom_image": "shopify://shop_images/Ares.jpg",
+            "custom_title": "Upgrade Ares 90%- 95% Density",
+            "custom_description": "",
+            "custom_compare_price": "",
+            "custom_discount_percent": 0,
+            "custom_class": "",
+            "shopify_attributes": ""
+          }
+        },
+        "product_item_tQcFGk": {
+          "type": "product_item",
+          "settings": {
+            "parent_tab_number": 1,
+            "product": "light-simois-ultra-natural-see-through-hair-full-lace-base-with-1-thin-skin-perimeter-and-0-5-lace-front",
+            "custom_image": "shopify://shop_images/Simois.jpg",
+            "custom_title": "Light Simois 80%- 85% Density",
+            "custom_description": "",
+            "custom_compare_price": "",
+            "custom_discount_percent": 0,
+            "custom_class": "",
+            "shopify_attributes": ""
+          }
+        },
+        "product_item_BP8EXy": {
+          "type": "product_item",
+          "settings": {
+            "parent_tab_number": 1,
+            "product": "sanders-80-light-density-full-lace-hair-system-breathable-and-light",
+            "custom_title": "Sanders 80%- 85% Density",
+            "custom_description": "",
+            "custom_compare_price": "",
+            "custom_discount_percent": 0,
+            "custom_class": "",
+            "shopify_attributes": ""
+          }
+        },
+        "product_item_beFxFj": {
+          "type": "product_item",
+          "settings": {
+            "parent_tab_number": 1,
+            "product": "upgrade-eros-men-s-hair-system-with-c-through-bio-skin-0-02-0-03mm-dull-finish-transparent-soft",
+            "custom_image": "shopify://shop_images/Eros.jpg",
+            "custom_title": "Eros 90% Density",
+            "custom_description": "",
+            "custom_compare_price": "",
+            "custom_discount_percent": 0,
+            "custom_class": "",
+            "shopify_attributes": ""
+          }
+        }
+      },
+      "block_order": [
+        "product_item_pjGzMM",
+        "product_item_qQHYRG",
+        "product_item_dnTiRw",
+        "product_item_tQcFGk",
+        "product_item_BP8EXy",
+        "product_item_beFxFj"
+      ],
+      "name": "Product Grid Flash",
+      "settings": {
+        "products_per_row": 3,
+        "products_per_row_mobile": 2,
+        "show_reviews": false,
+        "discount_percent": 0,
+        "filter_category": 0
+      }
+    },
+    "common_heading_UmXwj7": {
+      "type": "common-heading",
+      "name": "标题 Heading",
+      "settings": {
+        "title": "LaVivid Low Density Mars Hair System Preview",
+        "title_tag": "h2",
+        "title_size": "medium",
+        "title_color": "",
+        "subtitle": "",
+        "subtitle_tag": "p",
+        "subtitle_size": "medium",
+        "subtitle_color": "",
+        "align": "center",
+        "container_width": "standard",
+        "container_padding": "medium",
+        "spacing_top": "none",
+        "spacing_bottom": "none",
+        "background_color": ""
+      }
+    },
+    "custom_content_NqJKAc": {
+      "type": "custom-content",
+      "blocks": {
+        "video_W8egNf": {
+          "type": "video",
+          "settings": {
+            "width": "half",
+            "video_external": "https://www.youtube.com/watch?v=2dT28N1kWH8&t=2s",
+            "video_description": "",
+            "autoplay": false,
+            "placeholder_image": "shopify://shop_images/video2.webp"
+          }
+        },
+        "html_niMNND": {
+          "type": "html",
+          "settings": {
+            "width": "half",
+            "code": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <title>Right List (Converted from Tailwind)</title>\n  <style>\n    .list-container {\n      display: flex;\n      flex-direction: column;\n      justify-content: space-between; /* 纵向等分 */\n      height: 100%;\n    }\n    .list-item {\n      display: flex;               /* flex */\n      height: 100%;                /* h-full */\n      max-height: 4.5rem;          /* max-h-18 -> 72px */\n      width: 100%;                 /* w-full */\n      align-items: center;         /* items-center */\n      border-top-left-radius: 3rem;   /* rounded-l-[3rem] */\n      border-bottom-left-radius: 3rem;/* rounded-l-[3rem] */\n      border-top-right-radius: 15px;   /* rounded-r-15 */\n      border-bottom-right-radius: 15px;/* rounded-r-15 */\n      padding-top: 0.375rem;       /* py-1.5 -> 6px */\n      padding-bottom: 0.375rem;    /* py-1.5 */\n      padding-right: 0.5rem;       /* pr-2 -> 8px */\n      padding-left: 1.5rem;        /* pl-6 -> 24px */\n      font-size: 1.25rem;          /* text-xl */\n      line-height: 1.75rem;        /* text-xl 默认行高 */\n      margin-bottom: 1rem;         /* mb-4 -> 16px */\n      box-sizing: border-box;\n    }\n    @media (min-width: 768px) {\n      .list-item {\n        margin-bottom: 1.25rem;\n      }\n    }\n    .img-leading {\n      margin-right: 0.75rem; /* 12px */\n      display: inline-block;\n    }\n  </style>\n</head>\n<body>\n  <div class=\"list-container\">\n    <!-- <div class=\"list-item\" style=\"color:#fff; background:#6FAFBE;\">\n      <img class=\"img-leading\" loading=\"lazy\" src=\"https://d23tttlodvxe00.cloudfront.net/img/cms/campaign/lowDensityMensHairSystems/icon1.webp\" width=\"62\" height=\"62\" alt=\"See-Through Effect\">\n      See-Through Effect\n    </div>\n    <div class=\"list-item\" style=\"color:#fff; background:#6FAFBE;\">\n      <img class=\"img-leading\" loading=\"lazy\" src=\"https://d23tttlodvxe00.cloudfront.net/img/cms/campaign/lowDensityMensHairSystems/icon2.webp\" width=\"62\" height=\"62\" alt=\"More Natural Hairline\">\n      More Natural Hairline\n    </div>\n    <div class=\"list-item\" style=\"color:#fff; background:#6FAFBE;\">\n      <img class=\"img-leading\" loading=\"lazy\" src=\"https://d23tttlodvxe00.cloudfront.net/img/cms/campaign/lowDensityMensHairSystems/icon3.webp\" width=\"62\" height=\"62\" alt=\"Ultra Light Weight\">\n      Ultra Light Weight\n    </div>\n    <div class=\"list-item\" style=\"color:#fff; background:#6FAFBE;\">\n      <img class=\"img-leading\" loading=\"lazy\" src=\"https://d23tttlodvxe00.cloudfront.net/img/cms/campaign/lowDensityMensHairSystems/icon4.webp\" width=\"62\" height=\"62\" alt=\"Summer-Friendly Design\">\n      Summer-Friendly Design\n    </div> -->\n\n    <div class=\"list-item\" style=\"color:#1d1e20; background:#E6F8FF; font-size:1rem;\">\n      <img class=\"img-leading\" loading=\"lazy\" src=\"https://d23tttlodvxe00.cloudfront.net/img/cms/campaign/lowDensityMensHairSystems/icon5.webp\" width=\"4\" height=\"4\" alt=\"Men who prefer a more natural, less bulky look\">\n      Men who prefer a more natural, less bulky look\n    </div>\n    <div class=\"list-item\" style=\"color:#1d1e20; background:#E6F8FF; font-size:1rem;\">\n      <img class=\"img-leading\" loading=\"lazy\" src=\"https://d23tttlodvxe00.cloudfront.net/img/cms/campaign/lowDensityMensHairSystems/icon5.webp\" width=\"4\" height=\"4\" alt=\"First-time hair system wearers\">\n      First-time hair system wearers\n    </div>\n    <div class=\"list-item\" style=\"color:#1d1e20; background:#E6F8FF; font-size:1rem;\">\n      <img class=\"img-leading\" loading=\"lazy\" src=\"https://d23tttlodvxe00.cloudfront.net/img/cms/campaign/lowDensityMensHairSystems/icon5.webp\" width=\"4\" height=\"4\" alt=\"People living in hot or humid climates\">\n      People living in hot or humid climates\n    </div>\n    <div class=\"list-item\" style=\"color:#1d1e20; background:#E6F8FF; font-size:1rem;\">\n      <img class=\"img-leading\" loading=\"lazy\" src=\"https://d23tttlodvxe00.cloudfront.net/img/cms/campaign/lowDensityMensHairSystems/icon5.webp\" width=\"4\" height=\"4\" alt=\"Active lifestyles (e.g., gym, sports, outdoor work)\">\n      Active lifestyles (e.g., gym, sports, outdoor work)\n    </div>\n  </div>\n</body>\n</html>"
+          }
+        }
+      },
+      "block_order": [
+        "video_W8egNf",
+        "html_niMNND"
+      ],
+      "name": "Custom content",
+      "settings": {
+        "spacing": "medium",
+        "alignment": "middle",
+        "color_scheme": "default"
+      }
+    },
+    "common_heading_8t7XB3": {
+      "type": "common-heading",
+      "name": "标题 Heading",
+      "settings": {
+        "title": "Take a Close r Look at  the Low Density Collection",
+        "title_tag": "h2",
+        "title_size": "medium",
+        "title_color": "",
+        "subtitle": "",
+        "subtitle_tag": "p",
+        "subtitle_size": "medium",
+        "subtitle_color": "",
+        "align": "center",
+        "container_width": "standard",
+        "container_padding": "medium",
+        "spacing_top": "none",
+        "spacing_bottom": "none",
+        "background_color": ""
+      }
+    },
+    "firework_feed_PmBGF6": {
+      "type": "firework-feed",
+      "name": "Firework Feed",
+      "settings": {
+        "class-name": "",
+        "heading_text_1": "Crafted For",
+        "heading_text_2": "Your Lifestyle",
+        "heading_color_1": "#5b5be5",
+        "heading_color_2": "#000000",
+        "padding_top_desktop": 40,
+        "padding_bottom_desktop": 40,
+        "padding_top_mobile": 40,
+        "padding_bottom_mobile": 40,
+        "playlist": "5bJBa2",
+        "channel": "lavivid_hair",
+        "mode": "row",
+        "open_in": "default",
+        "max_videos": 0,
+        "placement": "middle",
+        "player_placement": "bottom-left"
+      }
+    },
+    "common_heading_f3AD8H": {
+      "type": "common-heading",
+      "name": "标题 Heading",
+      "settings": {
+        "title": "Wearing Low Density for the First Time – See the Results!",
+        "title_tag": "h2",
+        "title_size": "medium",
+        "title_color": "",
+        "subtitle": "",
+        "subtitle_tag": "p",
+        "subtitle_size": "medium",
+        "subtitle_color": "",
+        "align": "center",
+        "container_width": "standard",
+        "container_padding": "medium",
+        "spacing_top": "medium",
+        "spacing_bottom": "none",
+        "background_color": ""
+      }
+    },
+    "custom_content_rL6Qxn": {
+      "type": "custom-content",
+      "blocks": {
+        "video_fNKdP8": {
+          "type": "video",
+          "settings": {
+            "width": "half",
+            "video_external": "https://www.youtube.com/watch?v=dArI9Yun0FU",
+            "video_description": "",
+            "autoplay": false,
+            "placeholder_image": "shopify://shop_images/video3.webp"
+          }
+        },
+        "image_JMRTRV": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/video3_img_1.webp",
+            "height": "adapt",
+            "height_desktop": 580,
+            "height_mobile": 400,
+            "subheading": "Subheading",
+            "title": "Tell your story",
+            "text": "<p>Pair text with an image to tell a story</p>",
+            "enlarge_text": false,
+            "button_label": "",
+            "button_style": "primary",
+            "image_link": "",
+            "text_alignment": "center center",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        }
+      },
+      "block_order": [
+        "video_fNKdP8",
+        "image_JMRTRV"
+      ],
+      "name": "Custom content",
+      "settings": {
+        "spacing": "medium",
+        "alignment": "middle",
+        "color_scheme": "default"
+      }
+    },
+    "faq_EG4rrw": {
+      "type": "faq",
+      "blocks": {
+        "faq_item_6HXhFg": {
+          "type": "faq_item",
+          "settings": {
+            "question": "What is a low-density hair system?",
+            "answer": "Low-density hair systems typically have a hair density of around 80% to 90%, making them lighter and more breathable than traditional high-density systems. They are ideal for people with thinner natural hair or those who want a more natural, less bulky look.",
+            "is_html": false
+          }
+        },
+        "faq_item_dRKJ64": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Which products are a part of low density series?",
+            "answer": "LaVivid’s low-density collection includes:\n\nTU2501 Mars: 80%-90% density with a full Swiss lace base for a natural hairline transition.\n\nTU2514 Crius, TU2515 Ares, TU2513 Simois: 80%-85% density, designed for everyday wear with comfort and breathability.\n\nTP1802 Eros: 90% density with ultra-thin skin base, perfect for business or formal settings, offering an invisible hairline effect.",
+            "is_html": false
+          }
+        },
+        "faq_item_crDWgn": {
+          "type": "faq_item",
+          "settings": {
+            "question": "How natural does it look?",
+            "answer": "Very natural. The low density allows the scalp to slightly show through, mimicking natural hair growth and reducing the “wiggy” appearance.",
+            "is_html": false
+          }
+        },
+        "faq_item_dKCRgY": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Is it comfortable in summer?",
+            "answer": "Yes! Lower hair density improves airflow, making it lighter and cooler than standard or high-density systems—ideal for hot weather.",
+            "is_html": false
+          }
+        },
+        "faq_item_wxCr6K": {
+          "type": "faq_item",
+          "settings": {
+            "question": "How long does it last?",
+            "answer": "With proper care and regular maintenance, low-density systems can last just as long as standard-density systems.",
+            "is_html": false
+          }
+        },
+        "faq_item_yWXrnG": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Can I style it as normal hair?",
+            "answer": "Absolutely. You can cut, style, and use light hair products—but avoid heavy styling gels that may weigh down the low-density hair.",
+            "is_html": false
+          }
+        },
+        "faq_item_NTUwRU": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Does it work for all hair types?",
+            "answer": "Low density works for most hair types, but it’s particularly great for thin or fine hair to achieve a fuller yet natural look.",
+            "is_html": false
+          }
+        },
+        "faq_item_YDMrNr": {
+          "type": "faq_item",
+          "settings": {
+            "question": "How do I maintain it?",
+            "answer": "Regular gentle washing, moisturizing, UV protection, and checking the bond or tape every few days will keep it looking natural and secure.",
+            "is_html": false
+          }
+        },
+        "faq_item_7k9FNK": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Will it shed more than standard-density hair system?",
+            "answer": "Shedding is normal with any system, but low density doesn’t inherently shed more. Proper care minimizes shedding.",
+            "is_html": false
+          }
+        },
+        "faq_item_pmiyg3": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Can I swim or exercise with it?",
+            "answer": "Yes, especially with poly or lace bases—but use waterproof adhesive or tape for extra security during heavy sweating or swimming.",
+            "is_html": false
+          }
+        }
+      },
+      "block_order": [
+        "faq_item_6HXhFg",
+        "faq_item_dRKJ64",
+        "faq_item_crDWgn",
+        "faq_item_dKCRgY",
+        "faq_item_wxCr6K",
+        "faq_item_yWXrnG",
+        "faq_item_NTUwRU",
+        "faq_item_YDMrNr",
+        "faq_item_7k9FNK",
+        "faq_item_pmiyg3"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "faq_title": "LaVivid Low Density Collection – Q&A",
+        "faq_subtitle": "",
+        "enable_schema": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "background_video_mrVMmc",
+    "common_heading_a8gpFp",
+    "custom_content_3cga8T",
+    "common_heading_eDqxG8",
+    "product_grid_flash_gpB7P6",
+    "common_heading_UmXwj7",
+    "custom_content_NqJKAc",
+    "common_heading_8t7XB3",
+    "firework_feed_PmBGF6",
+    "common_heading_f3AD8H",
+    "custom_content_rL6Qxn",
+    "faq_EG4rrw"
+  ]
+}

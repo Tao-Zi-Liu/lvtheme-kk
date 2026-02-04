@@ -1,0 +1,61 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "299941d3-2159-4133-aa79-9a7552d7bd50": {
+      "type": "main-page",
+      "settings": {
+        "show_page_title": true,
+        "full_width": false
+      }
+    },
+    "forms": {
+      "type": "apps",
+      "blocks": {
+        "82a51eeb-fc65-4722-bc0d-b39ecbb90110": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "787259",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#ffffff",
+            "links_color": "#1878b9",
+            "errors_color": "#e02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 24,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        }
+      },
+      "block_order": [
+        "82a51eeb-fc65-4722-bc0d-b39ecbb90110"
+      ],
+      "settings": {
+        "full_width": false,
+        "show_space": true
+      }
+    },
+    "return_back_page_jngn8y": {
+      "type": "return-back-page",
+      "name": "[gy] Return Back Page",
+      "settings": {
+        "custom_url": ""
+      }
+    }
+  },
+  "order": [
+    "299941d3-2159-4133-aa79-9a7552d7bd50",
+    "forms",
+    "return_back_page_jngn8y"
+  ]
+}
