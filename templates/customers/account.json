@@ -1,0 +1,44 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-account",
+      "settings": {}
+    },
+    "17666250009e81d74c": {
+      "type": "apps",
+      "blocks": {
+        "smile_io_smile_landing_page_earning_rule_highlight_EYxz7F": {
+          "type": "shopify://apps/smile-io/blocks/smile-landing-page-earning-rule-highlight/2fae4e25-1841-4ea2-bc02-bd548478c4f6",
+          "settings": {
+            "primary_colour": "#333333",
+            "secondary_colour": "#ffffff",
+            "image": "shopify://shop_images/iwEdAqNqcGcDAQTRBLAF0QM4BrCbf0z8W42hmAlAHuYk1MMCB9IRZqyRCAAJomltCgAL0gAEETE.jpg",
+            "title_text": "",
+            "description_text": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "smile_io_smile_landing_page_earning_rule_highlight_EYxz7F"
+      ],
+      "settings": {
+        "full_width": false,
+        "show_space": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "17666250009e81d74c"
+  ]
+}

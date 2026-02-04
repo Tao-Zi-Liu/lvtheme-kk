@@ -1,0 +1,1435 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_m8jBVm": {
+      "type": "slideshow",
+      "blocks": {
+        "image_wi9UbW": {
+          "type": "image",
+          "name": "Slide-base sale",
+          "settings": {
+            "image": "shopify://shop_images/PC.jpg",
+            "mobile_image": "shopify://shop_images/M_e6116535-02e5-4983-8222-123353dd765b.jpg",
+            "slide_link": "shopify://pages/best-hair-system-base-adhesive-combos",
+            "enable_rating": false,
+            "review_text": "",
+            "rating_value": 5,
+            "subheading": "",
+            "heading_text_1": "",
+            "heading_text_2": "",
+            "heading_color_1": "#5b5be5",
+            "heading_color_2": "#000000",
+            "title": "",
+            "heading_max_width": 15,
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "button_1_type": "secondary",
+            "button_2_type": "secondary",
+            "primary_button_bg_color": "",
+            "primary_button_text_color": "",
+            "secondary_button_bg_color": "",
+            "secondary_button_text_color": "",
+            "text_alignment": "center center"
+          }
+        },
+        "image_3eNm8P": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/1920-700.jpg",
+            "mobile_image": "shopify://shop_images/lQLPJv9FZtta2h_NBCTNAu6wt17bSSLmFXAJTqH6WIf9AQ_750_1060.png",
+            "slide_link": "shopify://collections/bundle-sale",
+            "enable_rating": false,
+            "review_text": "",
+            "rating_value": 5,
+            "subheading": "",
+            "heading_text_1": "",
+            "heading_text_2": "",
+            "heading_color_1": "#5b5be5",
+            "heading_color_2": "#000000",
+            "title": "",
+            "heading_max_width": 15,
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": false,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "button_1_type": "secondary",
+            "button_2_type": "secondary",
+            "primary_button_bg_color": "",
+            "primary_button_text_color": "",
+            "secondary_button_bg_color": "",
+            "secondary_button_text_color": "",
+            "text_alignment": "center center"
+          }
+        },
+        "image_fCnnht": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/1920-700-2.jpg",
+            "mobile_image": "shopify://shop_images/hero-banner-mobile_1.png",
+            "slide_link": "",
+            "enable_rating": false,
+            "review_text": "4.4/5 (8172 Reviews)",
+            "rating_value": 5,
+            "subheading": "",
+            "heading_text_1": "",
+            "heading_text_2": "",
+            "heading_color_1": "#68699a",
+            "heading_color_2": "#000000",
+            "title": "Rediscover Confidence Redefine Your Style",
+            "heading_max_width": 13,
+            "title_size": 56,
+            "title_size_mobile": 20,
+            "use_h1": false,
+            "text": "<p>Premium, hair systems designed for your comfort and personal empowerment.</p>",
+            "enlarge_text": true,
+            "button_label_1": "Shop Hair Systems",
+            "button_url_1": "shopify://collections/men-hair-system",
+            "button_label_2": "Customize Hair System",
+            "button_url_2": "/pages/custom-toupee",
+            "button_1_type": "primary",
+            "button_2_type": "primary",
+            "primary_button_bg_color": "#171717",
+            "primary_button_text_color": "#ffffff",
+            "secondary_button_bg_color": "#ffffff",
+            "secondary_button_text_color": "#171717",
+            "text_alignment": "center left"
+          }
+        }
+      },
+      "block_order": [
+        "image_wi9UbW",
+        "image_3eNm8P",
+        "image_fCnnht"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "transition": "fade",
+        "navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "accessibility_info": ""
+      }
+    },
+    "1614871838b4f4ccd4": {
+      "type": "multi-column",
+      "blocks": {
+        "1614871838b4f4ccd4-0": {
+          "type": "text_block",
+          "settings": {
+            "text_style": "body-1",
+            "mobile_text_style": "mobile-body-1",
+            "enable_media": true,
+            "image": "shopify://shop_images/icon_b57d03b4-a816-4ad0-ab34-3c6520fc36b3.svg",
+            "title": "Super and Stable quality",
+            "text": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "1614871838b4f4ccd4-1": {
+          "type": "text_block",
+          "settings": {
+            "text_style": "body-1",
+            "mobile_text_style": "mobile-body-1",
+            "enable_media": true,
+            "image": "shopify://shop_images/icon_aa7a390d-be53-4f2e-a84c-13e7ea0d65ce.svg",
+            "title": "Controlled production & delivery timelines",
+            "text": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "1614871838b4f4ccd4-2": {
+          "type": "text_block",
+          "settings": {
+            "text_style": "body-1",
+            "mobile_text_style": "mobile-body-1",
+            "enable_media": true,
+            "image": "shopify://shop_images/icon.svg",
+            "title": "Customization supported",
+            "text": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_JfpVnn": {
+          "type": "text_block",
+          "settings": {
+            "text_style": "body-1",
+            "mobile_text_style": "mobile-body-1",
+            "enable_media": true,
+            "image": "shopify://shop_images/icon_61f5ae37-4ab6-440c-ae1a-888896a328be.svg",
+            "title": "Dedicated 1-on-1 order support",
+            "text": "",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1614871838b4f4ccd4-0",
+        "1614871838b4f4ccd4-1",
+        "1614871838b4f4ccd4-2",
+        "text_block_JfpVnn"
+      ],
+      "custom_css": [
+        ".flexible-layout {margin-bottom: 0;}"
+      ],
+      "settings": {
+        "class-name": "usp-icon-section",
+        "user_type": "b2b",
+        "padding_top_desktop": 32,
+        "padding_bottom_desktop": 32,
+        "padding_top_mobile": 48,
+        "padding_bottom_mobile": 48,
+        "columns": "2",
+        "title": "",
+        "media_aspect_ratio": "1",
+        "media_width": 60,
+        "text_alignment": "center",
+        "button_style": "primary",
+        "color_scheme": "1"
+      }
+    },
+    "multi_column_Y7CkaH": {
+      "type": "multi-column",
+      "blocks": {
+        "text_block_LiNgk7": {
+          "type": "text_block",
+          "settings": {
+            "text_style": "body-1",
+            "mobile_text_style": "mobile-body-1",
+            "enable_media": true,
+            "image": "shopify://shop_images/icon-quality-guaranteed.svg",
+            "title": "Quality Guaranteed",
+            "text": "<p>Expertly crafted for natural look and lasting wear.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_G39RMW": {
+          "type": "text_block",
+          "settings": {
+            "text_style": "body-1",
+            "mobile_text_style": "mobile-body-1",
+            "enable_media": true,
+            "image": "shopify://shop_images/icon-45-day-money-back.svg",
+            "title": "45-Day Return Guarantee",
+            "text": "<p>Try risk-free with our hassle-free return policy.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_bxcp3w": {
+          "type": "text_block",
+          "settings": {
+            "text_style": "body-3",
+            "mobile_text_style": "mobile-body-1",
+            "enable_media": true,
+            "image": "shopify://shop_images/icon-free-shipping.svg",
+            "title": "Free Shipping",
+            "text": "<p>Free Shipping on Orders Over $249</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_UGfCKe": {
+          "type": "text_block",
+          "settings": {
+            "text_style": "body-1",
+            "mobile_text_style": "mobile-body-1",
+            "enable_media": true,
+            "image": "shopify://shop_images/icon-secure-payment.svg",
+            "title": "Secure Payment",
+            "text": "<p>Shop confidently with encrypted checkout.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_LiNgk7",
+        "text_block_G39RMW",
+        "text_block_bxcp3w",
+        "text_block_UGfCKe"
+      ],
+      "custom_css": [
+        ".flexible-layout {margin-bottom: 0;}"
+      ],
+      "settings": {
+        "class-name": "usp-icon-section",
+        "user_type": "b2c",
+        "padding_top_desktop": 20,
+        "padding_bottom_desktop": 20,
+        "padding_top_mobile": 6,
+        "padding_bottom_mobile": 6,
+        "columns": "2",
+        "title": "",
+        "media_aspect_ratio": "1",
+        "media_width": 60,
+        "text_alignment": "center",
+        "button_style": "primary",
+        "color_scheme": "1"
+      }
+    },
+    "1480591889144": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "New Arrivals",
+        "collection": "new-arrival",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "color_scheme": "default",
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "kik_featured_tab_collection_yrQmcR": {
+      "type": "kik-featured-tab-collection",
+      "blocks": {
+        "collection_tab_MFngbW": {
+          "type": "collection_tab",
+          "settings": {
+            "tab_title": "Best Sellers",
+            "collection_pick": "men-hair-system"
+          }
+        },
+        "collection_tab_kTekFR": {
+          "type": "collection_tab",
+          "settings": {
+            "tab_title": "New Arrivals",
+            "collection_pick": "new-arrival"
+          }
+        },
+        "collection_tab_zKadkb": {
+          "type": "collection_tab",
+          "settings": {
+            "tab_title": "Clearance",
+            "collection_pick": "clearance-hair-systems"
+          }
+        }
+      },
+      "block_order": [
+        "collection_tab_MFngbW",
+        "collection_tab_kTekFR",
+        "collection_tab_zKadkb"
+      ],
+      "name": "Featured collection Tabs",
+      "settings": {
+        "class-name": "kik-featured-collection-one",
+        "padding_top_desktop": 30,
+        "padding_bottom_desktop": 32,
+        "padding_top_mobile": 20,
+        "padding_bottom_mobile": 20,
+        "heading_text_1": "",
+        "heading_text_2": "",
+        "heading_color_1": "#5b5be5",
+        "heading_color_2": "#000000",
+        "title": "",
+        "show_vendor": false,
+        "show_view_all": true,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "color_scheme": "default",
+        "full_width": false
+      }
+    },
+    "custom_content_XydJMH": {
+      "type": "custom-content",
+      "blocks": {
+        "image_EQBRM8": {
+          "type": "image",
+          "settings": {
+            "width": "quarter",
+            "image": "shopify://shop_images/collection-card-professional.png",
+            "mobile_image": "shopify://shop_images/collection-card-professional-mobile.png",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "",
+            "title": "Professional",
+            "text": "<p>Polished, modern, and effortless for your professional image.</p>",
+            "enlarge_text": false,
+            "button_label": "SHOP NOW",
+            "button_style": "link",
+            "image_link": "",
+            "text_alignment": "bottom left",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        },
+        "image_GejFFT": {
+          "type": "image",
+          "settings": {
+            "width": "quarter",
+            "image": "shopify://shop_images/collection-card-travel.png",
+            "mobile_image": "shopify://shop_images/collection-card-traveling-mobile.png",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "",
+            "title": "Traveling",
+            "text": "<p>Lightweight, easy to style, and ready to go wherever you are.</p>",
+            "enlarge_text": false,
+            "button_label": "SHOP NOW",
+            "button_style": "link",
+            "image_link": "",
+            "text_alignment": "bottom left",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        },
+        "image_ykJzdK": {
+          "type": "image",
+          "settings": {
+            "width": "quarter",
+            "image": "shopify://shop_images/collection-card-swimming.png",
+            "mobile_image": "shopify://shop_images/collection-card-swimming-mobile.png",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "",
+            "title": "Swimming",
+            "text": "<p>Secure, breathable, and durable for you who active in the water.</p>",
+            "enlarge_text": false,
+            "button_label": "SHOP NOW",
+            "button_style": "link",
+            "image_link": "",
+            "text_alignment": "bottom left",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        },
+        "image_CPE9Ki": {
+          "type": "image",
+          "settings": {
+            "width": "quarter",
+            "image": "shopify://shop_images/collection-card-fitness.png",
+            "mobile_image": "shopify://shop_images/collection-card-fitness-mobile.png",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "",
+            "title": "Fitness",
+            "text": "<p>Designed for intense workouts, ensuring a secure and natural look.</p>",
+            "enlarge_text": false,
+            "button_label": "SHOP NOW",
+            "button_style": "link",
+            "image_link": "",
+            "text_alignment": "bottom left",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        }
+      },
+      "block_order": [
+        "image_EQBRM8",
+        "image_GejFFT",
+        "image_ykJzdK",
+        "image_CPE9Ki"
+      ],
+      "disabled": true,
+      "name": "Custom content",
+      "settings": {
+        "spacing": "small",
+        "alignment": "top",
+        "color_scheme": "default"
+      }
+    },
+    "kik_custom_content_44tA84": {
+      "type": "kik-custom-content",
+      "blocks": {
+        "image_cbBFxt": {
+          "type": "image",
+          "settings": {
+            "width": "quarter",
+            "image": "shopify://shop_images/Professional_1.jpg",
+            "mobile_image": "shopify://shop_images/Business-1024-1024.jpg",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "",
+            "title": "Business/Work",
+            "text": "<h6>Made for Business. Designed for Confidence.</h6>",
+            "enlarge_text": false,
+            "show_button_icon": true,
+            "button_label": "SHOP NOW",
+            "button_style": "link",
+            "button_link": "shopify://collections/business",
+            "text_alignment": "bottom left",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        },
+        "image_LjMj9m": {
+          "type": "image",
+          "settings": {
+            "width": "quarter",
+            "image": "shopify://shop_images/Traveling_1.jpg",
+            "mobile_image": "shopify://shop_images/collection-card-traveling-mobile.png",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "",
+            "title": "Traveling",
+            "text": "<p>Designed for Life on the Move.</p>",
+            "enlarge_text": false,
+            "show_button_icon": true,
+            "button_label": "SHOP NOW",
+            "button_style": "link",
+            "button_link": "shopify://pages/travel-guide-hair-system-wearers-essentials",
+            "text_alignment": "bottom left",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        },
+        "image_FEmMmy": {
+          "type": "image",
+          "settings": {
+            "width": "quarter",
+            "image": "shopify://shop_images/Traveling_2.jpg",
+            "mobile_image": "shopify://shop_images/Swimming-1024-1024.jpg",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "",
+            "title": "Swimming",
+            "text": "<p>Swim-Ready. When Prepared Properly.</p>",
+            "enlarge_text": false,
+            "show_button_icon": true,
+            "button_label": "SHOP NOW",
+            "button_style": "link",
+            "button_link": "shopify://pages/waterproof-men-hair-system-for-swimming",
+            "text_alignment": "bottom left",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        },
+        "image_AkKW3Y": {
+          "type": "image",
+          "settings": {
+            "width": "quarter",
+            "image": "shopify://shop_images/Traveling_3.jpg",
+            "mobile_image": "shopify://shop_images/Fitness-1024-1024.jpg",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "",
+            "title": "Fitness/Active",
+            "text": "<p>Built for Movement — With the Right Setup.</p>",
+            "enlarge_text": false,
+            "show_button_icon": true,
+            "button_label": "SHOP NOW",
+            "button_style": "link",
+            "button_link": "shopify://collections/workout",
+            "text_alignment": "bottom left",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        }
+      },
+      "block_order": [
+        "image_cbBFxt",
+        "image_LjMj9m",
+        "image_FEmMmy",
+        "image_AkKW3Y"
+      ],
+      "name": "kik Custom content",
+      "settings": {
+        "class-name": "kik-custom-shop-lifestyle-section",
+        "heading_text_1": "Crafted For",
+        "heading_text_2": "Your Lifestyle",
+        "heading_color_1": "#68699a",
+        "heading_color_2": "#000000",
+        "padding_top_desktop": 36,
+        "padding_bottom_desktop": 30,
+        "padding_top_mobile": 10,
+        "padding_bottom_mobile": 10,
+        "alignment": "bottom",
+        "color_scheme": "default"
+      }
+    },
+    "kik_featured_tab_collection_imVXt4": {
+      "type": "kik-featured-tab-collection",
+      "blocks": {
+        "collection_tab_rVKcai": {
+          "type": "collection_tab",
+          "settings": {
+            "tab_title": "Low Density Hair System",
+            "collection_pick": "men-hair-system"
+          }
+        },
+        "collection_tab_cDPtHR": {
+          "type": "collection_tab",
+          "settings": {
+            "tab_title": "Zaro Guard Hair System",
+            "collection_pick": "clearance-hair-systems"
+          }
+        },
+        "collection_tab_RPrQwj": {
+          "type": "collection_tab",
+          "settings": {
+            "tab_title": "Curly Hair System",
+            "collection_pick": "clearance-hair-systems"
+          }
+        }
+      },
+      "block_order": [
+        "collection_tab_rVKcai",
+        "collection_tab_cDPtHR",
+        "collection_tab_RPrQwj"
+      ],
+      "disabled": true,
+      "name": "Featured collection Tabs",
+      "settings": {
+        "class-name": "kik-featured-collection-one",
+        "padding_top_desktop": 32,
+        "padding_bottom_desktop": 32,
+        "padding_top_mobile": 48,
+        "padding_bottom_mobile": 48,
+        "heading_text_1": "",
+        "heading_text_2": "",
+        "heading_color_1": "#68699a",
+        "heading_color_2": "#000000",
+        "title": "",
+        "show_vendor": false,
+        "show_view_all": true,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "color_scheme": "default",
+        "full_width": false
+      }
+    },
+    "kik_custom_content_dn74AV": {
+      "type": "kik-custom-content",
+      "blocks": {
+        "image_iUpB4P": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/custom-desktop.png",
+            "mobile_image": "shopify://shop_images/custom-mobile.png",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "enlarge_text": false,
+            "show_button_icon": false,
+            "button_label": "",
+            "button_style": "primary",
+            "button_link": "",
+            "text_alignment": "center center",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        },
+        "text_cqfLED": {
+          "type": "text",
+          "settings": {
+            "width": "half",
+            "text_alignment": "left",
+            "center_on_mobile": true,
+            "icon": "",
+            "icon_color": "rgba(0,0,0,0)",
+            "heading_text_1": "Custom Hair System,",
+            "heading_text_2": "Made Just for You",
+            "heading_color_1": "#68699a",
+            "heading_color_2": "#000000",
+            "subheading": "",
+            "title": "",
+            "title_size": 40,
+            "title_size_mobile": 32,
+            "text": "<p>Crafted to meet your needs, ensuring a comfortable fit, realistic appearance, and long-lasting performance. Every detail is tailored to you — from hairline design to base material.</p>",
+            "button_label": "Customize Hair System",
+            "button_link": "shopify://pages/custom-toupee",
+            "button_style": "secondary"
+          }
+        }
+      },
+      "block_order": [
+        "image_iUpB4P",
+        "text_cqfLED"
+      ],
+      "disabled": true,
+      "name": "kik Custom content",
+      "settings": {
+        "class-name": "kik-custom-about-section",
+        "heading_text_1": "",
+        "heading_text_2": "",
+        "heading_color_1": "#68699a",
+        "heading_color_2": "#000000",
+        "padding_top_desktop": 64,
+        "padding_bottom_desktop": 64,
+        "padding_top_mobile": 48,
+        "padding_bottom_mobile": 40,
+        "alignment": "middle",
+        "color_scheme": "2"
+      }
+    },
+    "image_with_text_overlay_FTkG7x": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_J4rYTz": {
+          "type": "heading",
+          "settings": {
+            "title": "Custom Hair System, Made for You",
+            "heading_max_width": 30,
+            "title_size": 40,
+            "title_size_mobile": 32,
+            "use_h1": false
+          }
+        },
+        "text_MCd3ce": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Crafted to meet your needs, ensuring a comfortable fit, realistic appearance, and long-lasting performance. Every detail is tailored to you — from hairline design to base material.</p>",
+            "enlarge_text": true
+          }
+        },
+        "text_6WNFbY": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"/pages/custom-toupee\" title=\"Custom Toupee\">CUSTOMIZE HAIR SYSTEM</a></p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_J4rYTz",
+        "text_MCd3ce",
+        "text_6WNFbY"
+      ],
+      "disabled": true,
+      "name": "Image with text overlay",
+      "settings": {
+        "image": "shopify://shop_images/Gemini_Generated_Image_sj8qrlsj8qrlsj8q.png",
+        "mobile_image": "shopify://shop_images/custom-desktop.png",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "full_width": true,
+        "text_alignment": "center center",
+        "mobile_overlay_under": false,
+        "overlay_style": "full image-overlay--bg-shadow"
+      }
+    },
+    "firework_feed_6MFzHm": {
+      "type": "firework-feed",
+      "name": "Firework Feed",
+      "settings": {
+        "class-name": "firework-feed-section",
+        "heading_text_1": "Real Stories, Real Results",
+        "heading_text_2": "",
+        "heading_color_1": "#171717",
+        "heading_color_2": "#000000",
+        "padding_top_desktop": 30,
+        "padding_bottom_desktop": 30,
+        "padding_top_mobile": 12,
+        "padding_bottom_mobile": 12,
+        "playlist": "5bJBa2",
+        "channel": "lavivid_hair",
+        "mode": "row",
+        "open_in": "default",
+        "max_videos": 0,
+        "placement": "middle",
+        "player_placement": "bottom-left"
+      }
+    },
+    "176275649494f4b2f8": {
+      "type": "apps",
+      "disabled": true,
+      "name": "Apps/Video UGC",
+      "settings": {
+        "full_width": false,
+        "show_space": true
+      }
+    },
+    "image_with_text_WtpgiV": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_j4QQw3": {
+          "type": "heading",
+          "settings": {
+            "heading_text_1": "Not Sure",
+            "title": "Image with text",
+            "use_h1": false
+          }
+        },
+        "text_ngeUML": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Starting your hair system journey can feel overwhelming but we’re here to make it simple. Get the basics or personalized guidance from our expert.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_XxQzee": {
+          "type": "button",
+          "settings": {
+            "button_label": "HELP ME CHOOSE",
+            "button_link": "",
+            "button_style": "primary"
+          }
+        },
+        "button_YnTdKd": {
+          "type": "button",
+          "settings": {
+            "button_label": "Book Free Consultation",
+            "button_link": "",
+            "button_style": "secondary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_j4QQw3",
+        "text_ngeUML",
+        "button_XxQzee",
+        "button_YnTdKd"
+      ],
+      "disabled": true,
+      "settings": {
+        "class-name": "kik-custom-image-with-text",
+        "padding_top_desktop": 64,
+        "padding_bottom_desktop": 64,
+        "padding_top_mobile": 0,
+        "padding_bottom_mobile": 0,
+        "image": "shopify://shop_images/Not_Sure_Where_To_Begin__-_image_1.png",
+        "image_2": "shopify://shop_images/Not_Sure_Where_To_Begin__-_image_2.png",
+        "image_width": 670,
+        "image_link": "",
+        "image_position": "right",
+        "text_alignment": "left",
+        "color_scheme": "2"
+      }
+    },
+    "kik_image_with_text_gBcLPe": {
+      "type": "kik-image-with-text",
+      "blocks": {
+        "heading_DTXkNK": {
+          "type": "heading",
+          "settings": {
+            "heading_text_1": "Not Sure",
+            "heading_text_2": "Where To Begin?",
+            "heading_color_1": "#68699a",
+            "heading_color_2": "#000000",
+            "use_h1": false
+          }
+        },
+        "text_iQqNQJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Starting your hair system journey can feel overwhelming but we’re here to make it simple. Get the basics or personalized guidance from our expert.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_Jyw6rn": {
+          "type": "button",
+          "settings": {
+            "button_label": "Book Free Consultation",
+            "button_link": "/pages/hair-system-consultation",
+            "button_style": "primary"
+          }
+        },
+        "button_7JUeDn": {
+          "type": "button",
+          "settings": {
+            "button_label": "HELP ME CHOOSE",
+            "button_link": "/pages/hair-systems-for-beginners",
+            "button_style": "secondary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_DTXkNK",
+        "text_iQqNQJ",
+        "button_Jyw6rn",
+        "button_7JUeDn"
+      ],
+      "name": "kik Image with text",
+      "settings": {
+        "class-name": "kik-custom-image-with-text",
+        "padding_top_desktop": 64,
+        "padding_bottom_desktop": 64,
+        "padding_top_mobile": 42,
+        "padding_bottom_mobile": 12,
+        "image": "shopify://shop_images/Not_Sure_Where_To_Begin__-_image_1.png",
+        "image_2": "shopify://shop_images/Not_Sure_Where_To_Begin__-_image_2.png",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "right",
+        "text_alignment": "left",
+        "color_scheme": "default"
+      }
+    },
+    "shop_the_look_BVNgah": {
+      "type": "shop-the-look",
+      "blocks": {
+        "heading_RhH7zw": {
+          "type": "heading",
+          "settings": {
+            "title": "Real Style, Real Confidence",
+            "heading_max_width": 10,
+            "title_size": 40,
+            "title_size_mobile": 32,
+            "use_h1": false
+          }
+        },
+        "text_iQ3Wnh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From casual to active heavy fitness activity, our hair systems is designed for confidence, comfort, and cool airflow.</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_RhH7zw",
+        "text_iQ3Wnh"
+      ],
+      "disabled": true,
+      "name": "Shop the look",
+      "settings": {
+        "class-name": "kik-shop-the-look-section",
+        "padding_top_desktop": 0,
+        "padding_bottom_desktop": 0,
+        "padding_top_mobile": 48,
+        "padding_bottom_mobile": 48,
+        "image": "shopify://shop_images/featured-product-desktop.png",
+        "mobile_image": "shopify://shop_images/featured-product-mobile.png",
+        "video_external": "",
+        "video_description": "",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "product_list": [
+          "ares-men-s-hair-system-french-lace-with-skin-around-in-220-color",
+          "helios-hair-system-for-bald-men-full-swiss-lace-base-best-for-active-lifestyle"
+        ],
+        "products_alignment": "bottom right",
+        "product_card_layout": "portrait",
+        "show_swatches": true,
+        "full_width": true,
+        "text_alignment": "bottom left",
+        "mobile_overlay_over": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16115832006dc80dc9": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_EGYtYY": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "Been using this hair system for 2 months – game changer for hot weather or an active lifestyle. No need to shave my own hair but still rocking a super cool look. Clips blend naturally, no glue/tape hassle or itchiness.",
+            "author": "Aaron",
+            "image": "shopify://shop_images/Aaron.webp",
+            "image_caption": "Shop Look",
+            "link": "shopify://products/eros-men-s-hair-system-full-ultra-thin-skin-base-businessmen-s-choice"
+          }
+        },
+        "testimonial_pdN3cG": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "As a beginner with hair systems, I’m very satisfied with how natural it looks and fits. I get compliments on it, and it’s breathable even in Florida’s humid weather. Just a little shedding at first, but overall very good.",
+            "author": "Eric",
+            "image": "shopify://shop_images/Eric.webp",
+            "image_caption": "Shop Look",
+            "link": "shopify://products/tyler-hair-system-for-men-unmatched-natural-scalp-appearance-long-lasting-for-up-to-a-year"
+          }
+        },
+        "testimonial_49BW37": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "I’ve worn hairpieces for years but never found one that looked real until Lavivid. It’s the most natural I’ve had, and I was so impressed I ordered two more and will now get one every two months. Thank you, Lavivid!",
+            "author": "Shawn",
+            "image": "shopify://shop_images/Shawn.webp",
+            "image_caption": "Shop Look",
+            "link": "shopify://products/coeus-mens-hair-replacement-unit-full-thin-skin-base-men-s-hairstyle-for-curly-hair"
+          }
+        },
+        "testimonial_pknefh": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "I have been wearing Hair systems for over 14 years now and I have to say the best is LaVivid hair. I just absolutely always find the quality of the hair and the standard is so high I have tryed so many different companies over the years but none match to LaVivid from stock to custom systems they do it all.",
+            "author": "Jeremy",
+            "image": "shopify://shop_images/Jeremy.webp",
+            "image_caption": "Shop Look",
+            "link": "shopify://products/zeo-ares-antimicrobial-hair-replacement-system"
+          }
+        },
+        "testimonial_jH3p6n": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": " I've been wearing hair replacements for 10 years I've worn hair from many different companies over the years. l just finished my 4th month wearing the Louis. I LOVE it!!! By far the best hair system thatI've ever worn. Durable poly skin base.",
+            "author": "Adam",
+            "image": "shopify://shop_images/mikey.webp",
+            "image_caption": "Shop Look",
+            "link": "shopify://products/mirage-toupee-for-men-full-super-thin-skin-base-celebrities-choice"
+          }
+        },
+        "16115832006dc80dc9-0": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "“I’m a massive fan of the custom system and love blonde highlights in them . They are fast and efficient at putting ur dream system to give you the style and confidence u want. Thank you for given me my confidence back and offering full support when I place my orders .”",
+            "author": "Kevin",
+            "image": "shopify://shop_images/testimonial-link_1.png",
+            "image_caption": "Shop Look",
+            "link": "shopify://products/helios-hair-system-for-bald-men-full-swiss-lace-base-best-for-active-lifestyle"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_EGYtYY",
+        "testimonial_pdN3cG",
+        "testimonial_49BW37",
+        "testimonial_pknefh",
+        "testimonial_jH3p6n",
+        "16115832006dc80dc9-0"
+      ],
+      "settings": {
+        "class-name": "kik-testimonials-section",
+        "padding_top_desktop": 32,
+        "padding_bottom_desktop": 26,
+        "padding_top_mobile": 12,
+        "padding_bottom_mobile": 20,
+        "title": "From the Customers",
+        "layout": "image-right",
+        "text_caps": false,
+        "quote_text_size": 24,
+        "quote_text_size_mobile": 18,
+        "image_shape": "natural",
+        "color_scheme": "1",
+        "use_custom_star_rating_color": true,
+        "star_rating_color": "#ffcc00",
+        "autoplay": true,
+        "autoplay_speed": 3
+      }
+    },
+    "kik_custom_content_mT8i6C": {
+      "type": "kik-custom-content",
+      "blocks": {
+        "image_aCa6BB": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/about-us-image.png",
+            "mobile_image": "shopify://shop_images/about-us-image-mobile.png",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "enlarge_text": false,
+            "show_button_icon": false,
+            "button_label": "",
+            "button_style": "primary",
+            "button_link": "",
+            "text_alignment": "center center",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        },
+        "text_MrneRz": {
+          "type": "text",
+          "settings": {
+            "width": "half",
+            "text_alignment": "left",
+            "center_on_mobile": true,
+            "icon": "",
+            "icon_color": "rgba(0,0,0,0)",
+            "heading_text_1": "When Precision Matters, Go Custom.",
+            "heading_text_2": "",
+            "heading_color_1": "#171717",
+            "heading_color_2": "#68699a",
+            "subheading": "",
+            "title": "",
+            "title_size": 40,
+            "title_size_mobile": 32,
+            "text": "<p><br/>Custom hair systems are designed around your specific needs —not assumptions.<br/>Ideal for wearers who value accuracy, comfort,and long-term confidence.<br/><br/></p>",
+            "button_label": "Start Your Custom Journey",
+            "button_link": "/pages/custom-toupee",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "image_aCa6BB",
+        "text_MrneRz"
+      ],
+      "name": "kik Custom content",
+      "settings": {
+        "class-name": "kik-custom-about-section",
+        "heading_text_1": "",
+        "heading_text_2": "",
+        "heading_color_1": "#68699a",
+        "heading_color_2": "#000000",
+        "padding_top_desktop": 22,
+        "padding_bottom_desktop": 30,
+        "padding_top_mobile": 36,
+        "padding_bottom_mobile": 40,
+        "alignment": "middle",
+        "color_scheme": "default"
+      }
+    },
+    "custom_content_M4V8ip": {
+      "type": "custom-content",
+      "blocks": {
+        "image_NaMczA": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/about-us-image.png",
+            "mobile_image": "shopify://shop_images/about-us-image-mobile.png",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "enlarge_text": false,
+            "button_label": "",
+            "button_style": "primary",
+            "image_link": "",
+            "text_alignment": "center center",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        },
+        "text_eqA3de": {
+          "type": "text",
+          "settings": {
+            "width": "half",
+            "text_alignment": "left",
+            "center_on_mobile": true,
+            "icon": "",
+            "icon_color": "rgba(0,0,0,0)",
+            "subheading": "",
+            "title": "Lavivid Crafted By Experts Inspired By Confidence",
+            "title_size": 40,
+            "title_size_mobile": 32,
+            "text": "<p>LaVivid is committed to delivering the best non-surgical solutions to men who are experiencing hair loss. We provide premium quality men’s hair replacement systems for competitive prices. Each hair piece is individually handcrafted and designed with your needs in mind. Here at LaVivid the customer comes first, and we strive to make every customer’s hair loss journey a little bit easier.</p>",
+            "button_label": "READ MORE ABOUT US",
+            "button_link": "shopify://pages/about-us",
+            "button_style": "secondary"
+          }
+        }
+      },
+      "block_order": [
+        "image_NaMczA",
+        "text_eqA3de"
+      ],
+      "disabled": true,
+      "name": "Custom content",
+      "settings": {
+        "spacing": "medium",
+        "alignment": "middle",
+        "color_scheme": "2"
+      }
+    },
+    "kik_custom_content_LigMVA": {
+      "type": "kik-custom-content",
+      "blocks": {
+        "image_JHt9Eg": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/content-video-tutorial.png",
+            "mobile_image": "shopify://shop_images/content-video-tutorial-mobile.png",
+            "height": "adapt",
+            "height_desktop": 400,
+            "height_mobile": 300,
+            "subheading": "",
+            "title": "Watch Then Style Like a Pro",
+            "text": "<p>Real techniques. Real results. Follow along and master the art of natural-looking hair in minutes.</p>",
+            "enlarge_text": false,
+            "show_button_icon": true,
+            "button_label": "WATCH VIDEO TUTORIALS",
+            "button_style": "link",
+            "button_link": "/pages/hair-replacement-system-training-ecourse",
+            "text_alignment": "bottom center",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        },
+        "image_NNxFak": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/content-blogs.png",
+            "mobile_image": "shopify://shop_images/content-blogs-mobile.png",
+            "height": "adapt",
+            "height_desktop": 400,
+            "height_mobile": 500,
+            "subheading": "",
+            "title": "The Style Journal",
+            "text": "<p>Explore curated articles filled with trends, tips, and insights to keep your look on point.</p>",
+            "enlarge_text": false,
+            "show_button_icon": true,
+            "button_label": "READ LATEST BLOGS",
+            "button_style": "link",
+            "button_link": "/pages/blogs",
+            "text_alignment": "bottom center",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        },
+        "image_bJwDpj": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "width": "half",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "Subheading",
+            "title": "Tell your story",
+            "text": "<p>Pair text with an image to tell a story</p>",
+            "enlarge_text": false,
+            "show_button_icon": false,
+            "button_label": "",
+            "button_style": "primary",
+            "button_link": "",
+            "text_alignment": "center center",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        }
+      },
+      "block_order": [
+        "image_JHt9Eg",
+        "image_NNxFak",
+        "image_bJwDpj"
+      ],
+      "name": "kik Custom content",
+      "settings": {
+        "class-name": "kik-educational-channel-section",
+        "heading_text_1": "Insights & Guidance",
+        "heading_text_2": "",
+        "heading_color_1": "#171717",
+        "heading_color_2": "#000000",
+        "padding_top_desktop": 64,
+        "padding_bottom_desktop": 64,
+        "padding_top_mobile": 48,
+        "padding_bottom_mobile": 48,
+        "alignment": "middle",
+        "color_scheme": "default"
+      }
+    },
+    "image_text_grid_FgMnWt": {
+      "type": "image-text-grid",
+      "blocks": {
+        "image_text_item_YPiah4": {
+          "type": "image_text_item",
+          "settings": {
+            "image": "shopify://shop_images/Escobarbers_Kettering.png",
+            "title": "Escobarbers Kettering",
+            "text": "<p>Northamptonshire, UK</p>",
+            "link_url": "",
+            "button_text": ""
+          }
+        },
+        "image_text_item_Tdfibm": {
+          "type": "image_text_item",
+          "settings": {
+            "image": "shopify://shop_images/Adherence_4_Appearance_LLC.png",
+            "title": "Adherence 4 Appearance LLC",
+            "text": "<p>Frederick, MD United States</p>",
+            "link_url": "",
+            "button_text": ""
+          }
+        },
+        "image_text_item_tpt4br": {
+          "type": "image_text_item",
+          "settings": {
+            "image": "shopify://shop_images/LA_Hair_Replacement.png",
+            "title": "LA Hair Replacement",
+            "text": "<p>West Hollywood, CA United States</p>",
+            "link_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_text_item_YPiah4",
+        "image_text_item_Tdfibm",
+        "image_text_item_tpt4br"
+      ],
+      "disabled": true,
+      "name": "Image Text Grid",
+      "settings": {
+        "title": "Expert Care, Within Your Reach",
+        "max_width": 1400,
+        "columns_desktop": 3,
+        "columns_tablet": 2,
+        "columns_mobile": 1,
+        "gap_size": 24,
+        "text_alignment": "center",
+        "background_color": "",
+        "padding_top": "large",
+        "padding_bottom": "large",
+        "image_padding": 0
+      }
+    },
+    "kik_image_text_grid_99MzHJ": {
+      "type": "kik-image-text-grid",
+      "blocks": {
+        "image_text_item_FJAHti": {
+          "type": "image_text_item",
+          "settings": {
+            "image": "shopify://shop_images/Escobarbers_Kettering.png",
+            "title": "Escobarbers Kettering",
+            "text": "<p>Northamptonshire, UK</p>",
+            "link_url": "",
+            "button_text": ""
+          }
+        },
+        "image_text_item_fFzpXJ": {
+          "type": "image_text_item",
+          "settings": {
+            "image": "shopify://shop_images/Adherence_4_Appearance_LLC.png",
+            "title": "Adherence 4 Appearance LLC",
+            "text": "<p>Frederick, MD United States</p>",
+            "link_url": "",
+            "button_text": ""
+          }
+        },
+        "image_text_item_f9WXqW": {
+          "type": "image_text_item",
+          "settings": {
+            "image": "shopify://shop_images/LA_Hair_Replacement.png",
+            "title": "LA Hair Replacement",
+            "text": "<p>West Hollywood, CA United States</p>",
+            "link_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_text_item_FJAHti",
+        "image_text_item_fFzpXJ",
+        "image_text_item_f9WXqW"
+      ],
+      "name": "kik Image Text Grid",
+      "settings": {
+        "title": "",
+        "padding_top_desktop": 64,
+        "padding_bottom_desktop": 64,
+        "padding_top_mobile": 48,
+        "padding_bottom_mobile": 48,
+        "heading_text_1": "Expert Care,",
+        "heading_text_2": "Within Your Reach",
+        "heading_color_1": "#68699a",
+        "heading_color_2": "#000000",
+        "description": "Our experts are always ready to help you choose, style, and maintain your hair system—making professional support easy and accessible every step of the way.",
+        "button_label": "View more partners",
+        "button_link": "/pages/seller-profile",
+        "button_style": "link",
+        "columns_desktop": 3,
+        "columns_tablet": 2,
+        "columns_mobile": 1,
+        "gap_size": 24,
+        "text_alignment": "center",
+        "background_color": "",
+        "padding_top": "none",
+        "padding_bottom": "none"
+      }
+    },
+    "custom_html_content_xhG336": {
+      "type": "custom-html-content",
+      "blocks": {
+        "html_rC7D96": {
+          "type": "html",
+          "settings": {
+            "html_content": "<meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Document</title>\n  <style>\n    /* 父级命名空间，防止样式冲突 */\n    #fw-live-widget .open-button {\n      background-color: rgba(0, 0, 0, 0);\n      display: none;\n      border: none;\n      cursor: pointer;\n      position: fixed;\n      bottom: 140px;\n      right: 15px;\n      z-index: 1000;\n      width: 80px;\n      height: 80px;\n      overflow: hidden;\n      border-radius: 50%;\n      padding: 0;\n    }\n    #fw-live-widget .open-button #fw-floating-button-thumbnail {\n      position: absolute;\n      top: 0;\n      left: 0;\n      width: 100%;\n      height: 100%;\n      object-fit: cover;\n      object-position: center;\n      display: block;\n    }\n    #fw-live-widget .icon-center {\n      position: absolute;\n      top: 50%;\n      left: 50%;\n      transform: translate(-50%, -50%);\n      display: flex;\n      align-items: center;\n      justify-content: center;\n    }\n    #fw-live-widget .icon-center svg {\n      width: 40px;\n      height: 40px;\n      display: block;\n    }\n    #fw-live-widget #liveUnActive svg {\n      stroke: currentColor;\n      color: #fff;\n    }\n    #fw-live-widget #liveUnActive svg polygon,\n    #fw-live-widget #liveUnActive svg circle {\n      stroke: currentColor;\n      fill: none;\n    }\n    #fw-live-widget .is-hidden {\n      display: none !important;\n    }\n    #fw-live-widget .open-button #liveActive {\n      background-color: red;\n      color: white;\n      border-radius: 0.625rem;\n      display: flex;\n      justify-content: center;\n      align-items: center;\n      gap: 2px;\n      font-size: 1rem;\n      width: 3.125rem;\n      z-index: 1;\n      height: 1.25rem;\n    }\n  </style>\n\n\n  <!-- 初始播放器包裹在容器中 -->\n<div class=\"fw-story-block\">\n  <fw-storyblock channel=\"lavivid_hair\" playlist=\"5zJDLe\" mode=\"pinned\" player_placement=\"bottom-right\" autoplay=\"autoplay\">\n  </fw-storyblock>\n</div>\n\n<div id=\"fw-live-widget\">\n  <button id=\"fw-floating-button\" class=\"open-button\">\n    <img id=\"fw-floating-button-thumbnail\" src=\"\" alt=\"\">\n    <span id=\"liveUnActive\" class=\"icon-center\" style=\"color: #fff;\">\n      <svg width=\"40\" height=\"40\" viewbox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\"><polygon fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.1\" points=\"8.5 7 13.5 10 8.5 13\"></polygon><circle fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.1\" cx=\"10\" cy=\"10\" r=\"9\"></circle></svg>\n    </span>\n    <span id=\"liveActive\" class=\"icon-center\">\n      <svg stroke=\"currentColor\" fill=\"currentColor\" stroke-width=\"0\" viewbox=\"0 0 512 512\" height=\"1em\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm115.7 272l-176 101c-15.8 8.8-35.7-2.5-35.7-21V152c0-18.4 19.8-29.8 35.7-21l176 107c16.4 9.2 16.4 32.9 0 42z\">\n        </path>\n      </svg>\n      live\n    </span>\n  </button>\n</div>\n\n\n\n\n<!-- <script async src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js\"></script> -->\n<script async=\"\" type=\"text/javascript\" src=\"https://asset.fwcdn3.com/js/fwn.js\"></script>\n<script>\n\n  const props = {\n    playlist: '5zJDLe',\n    thumbnailUrl: 'https://d23tttlodvxe00.cloudfront.net/img/cms/liveIcon/previewIcon2.png'\n  }\n\n  // 统一事件委托处理\n  document.addEventListener(\"fw:player:quit\", displayBubbleFull);\n\n  // 按钮事件绑定\n  document.getElementById('fw-floating-button').addEventListener('click', openFloatingPlayer);\n\n  // 展示播放器图标\n  function displayBubble() {\n    // 移除已有的 firework 播放器容器（原先使用 jQuery，这里改为原生 JS）\n    document.querySelectorAll(\".fw-story-block\").forEach(function (el) {\n      el.remove();\n    });\n    document.getElementById(\"fw-floating-button\").style.display = \"block\";\n    fetchThumbnail()\n  }\n\n  function displayBubbleFull() {\n    window.localStorage.setItem(\"storyBlock\", \"false\")\n    displayBubble()\n  }\n\n  function hideBubble() {\n    document.getElementById(\"fw-floating-button\").style.display = \"none\";\n  }\n\n  // 展示firework播放器\n  function openFloatingPlayer() {\n    hideBubble();\n    window.localStorage.setItem(\"storyBlock\", \"true\")\n\n    // 使用DOM API创建元素\n    const container = document.createElement('div');\n    container.className = 'fw-story-block';\n\n    const player = document.createElement('fw-storyblock');\n    player.setAttribute('channel', 'lavivid_hair');\n    player.setAttribute('playlist', '5zJDLe');\n    player.setAttribute('mode', 'pinned');\n    player.setAttribute('autoplay', 'true');\n    player.setAttribute('player_placement', 'bottom-right');\n\n    container.appendChild(player);\n    document.body.appendChild(container);\n  }\n\n  // 获取firework视频封面\n  async function fetchThumbnail() {\n    const playlistId = props.playlist\n    try {\n      const response = await fetch(`https://fireworkapi1.com/embed/v2/playlists/${playlistId}/feeds?page_size=1`, {\n        method: 'POST',\n      })\n      const feed = await response.json()\n      const thumbnailUrl = feed?.feed_items?.[0]?.video?.video_posters[0].url ?? null\n      const status = feed?.feed_items?.[0]?.video?.live_stream_status\n      if (thumbnailUrl) {\n        document.getElementById(\"fw-floating-button-thumbnail\").src = thumbnailUrl\n      }\n\n      const isLive = status === 'active'\n      if (isLive) {\n        document.getElementById(\"liveUnActive\").classList.add(\"is-hidden\");\n        document.getElementById(\"liveActive\").classList.remove(\"is-hidden\")\n      } else {\n        document.getElementById(\"liveUnActive\").classList.remove(\"is-hidden\");\n        document.getElementById(\"liveActive\").classList.add(\"is-hidden\")\n      }\n    } catch (error) {\n      document.getElementById(\"fw-floating-button-thumbnail\").src = props.thumbnailUrl\n    }\n  }\n  \n  // true,false\n  window.onload = function () {\n    var storyBlock = window.localStorage.getItem('storyBlock')\n    console.log('storyBlock',storyBlock)\n    if (storyBlock == 'false') {\n      displayBubble();\n      return\n    }\n    if (storyBlock == 'true') {\n      openFloatingPlayer();\n      return\n    }\n  }\n  displayBubble();\n\n</script>"
+          }
+        }
+      },
+      "block_order": [
+        "html_rC7D96"
+      ],
+      "name": "[gy] Custom HTML Content",
+      "settings": {
+        "section_title": "",
+        "title_size": 32,
+        "title_color": "#000000",
+        "title_alignment": "center",
+        "title_margin": 40,
+        "container_type": "container",
+        "container_width": 1180,
+        "container_padding": 15,
+        "background_color": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "use_shadow_dom": false,
+        "custom_css": "",
+        "custom_js": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow_m8jBVm",
+    "1614871838b4f4ccd4",
+    "multi_column_Y7CkaH",
+    "1480591889144",
+    "kik_featured_tab_collection_yrQmcR",
+    "custom_content_XydJMH",
+    "kik_custom_content_44tA84",
+    "kik_featured_tab_collection_imVXt4",
+    "kik_custom_content_dn74AV",
+    "image_with_text_overlay_FTkG7x",
+    "firework_feed_6MFzHm",
+    "176275649494f4b2f8",
+    "image_with_text_WtpgiV",
+    "kik_image_with_text_gBcLPe",
+    "shop_the_look_BVNgah",
+    "16115832006dc80dc9",
+    "kik_custom_content_mT8i6C",
+    "custom_content_M4V8ip",
+    "kik_custom_content_LigMVA",
+    "image_text_grid_FgMnWt",
+    "kik_image_text_grid_99MzHJ",
+    "custom_html_content_xhG336"
+  ]
+}
