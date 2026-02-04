@@ -1,0 +1,98 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "footer",
+  "name": "Footer Group",
+  "sections": {
+    "176794681438624558": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_tEm3rq": {
+          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "VKzzQz"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_tEm3rq"
+      ],
+      "custom_css": [],
+      "settings": {
+        "full_width": true,
+        "show_space": true
+      }
+    },
+    "cross-page-promos": {
+      "type": "cross-page-promos",
+      "settings": {
+        "cross_page_promo_bg": "#ffffff",
+        "cross_page_promo_color": "#171717",
+        "show_on_home_page": true
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "text_NfDcHA": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>Lavivid provides premium, handcrafted men’s hair replacement systems at competitive prices and offering personalized, non-surgical solutions.</p><p><strong>CUSTOMER SUPPORT</strong><br/>Email: <a href=\"mailto:support@lavividhair.com\" target=\"_blank\">support@lavividhair.com</a><br/>Call: <a href=\"tel:+18338790279\" target=\"_blank\" title=\"tel:+18338790279\">+1 833-879-0279</a><br/>9:00AM – 3:00PM PST, Monday-Friday</p><p><strong>SALON CONTACT</strong><br/>Enquiries: <a href=\"mailto:salon@lavividhair.com\" target=\"_blank\">salon@lavividhair.com</a><br/>Wholesale WhatsApp: +44 7419 360064</p>",
+            "image": "shopify://shop_images/logo1.png",
+            "image_width": 140,
+            "show_social_icons": true,
+            "soc_icons_large": true,
+            "enable_follow_on_shop": false
+          }
+        },
+        "1601308671932": {
+          "type": "menu",
+          "settings": {
+            "title": "Shop",
+            "menu": "product"
+          }
+        },
+        "menu_gwTUyY": {
+          "type": "menu",
+          "settings": {
+            "title": "PROGRAMS",
+            "menu": "lavivid-popular"
+          }
+        },
+        "menu_cDDFKV": {
+          "type": "menu",
+          "settings": {
+            "title": "HELP & ABOUT",
+            "menu": "help-center"
+          }
+        }
+      },
+      "block_order": [
+        "text_NfDcHA",
+        "1601308671932",
+        "menu_gwTUyY",
+        "menu_cDDFKV"
+      ],
+      "settings": {
+        "lower_menu": "footer-bottom-menu",
+        "show_powered_by": false,
+        "show_payment_icons": false,
+        "enable_country_selector": false,
+        "enable_language_selector": true
+      }
+    }
+  },
+  "order": [
+    "176794681438624558",
+    "cross-page-promos",
+    "footer"
+  ]
+}
