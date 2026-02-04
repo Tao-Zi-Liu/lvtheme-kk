@@ -1,0 +1,351 @@
+{% doc %}
+  @prompt
+    <div class="status-box" style="border: 1px solid #e0e0e0; padding: 15px; margin: 20px auto; max-width: 400px; text-align: left; font-size: 0.9em;">
+        <p><strong>Status Check:</strong></p>
+        <ul style="list-style: none; padding-left: 0;">
+          <li>✓ Production: <span style="color: green;">Online</span></li>
+          <li>✓ Shipping: <span style="color: green;">On Schedule</span></li>
+        </ul>
+      </div>
+    我要生成这样的代码
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-status-box-{{ ai_gen_id }} {
+    display: block;
+    border: 1px solid {{ block.settings.border_color }};
+    padding: {{ block.settings.padding }}px;
+    margin: {{ block.settings.margin_top }}px auto {{ block.settings.margin_bottom }}px;
+    max-width: {{ block.settings.max_width }}px;
+    text-align: left;
+    font-size: {{ block.settings.font_size }}px;
+    background-color: {{ block.settings.background_color }};
+    border-radius: {{ block.settings.border_radius }}px;
+    width: 100%;
+  }
+
+  .ai-status-box__title-{{ ai_gen_id }} {
+    font-weight: 700;
+    margin: 0 0 {{ block.settings.title_spacing }}px 0;
+    color: {{ block.settings.title_color }};
+    font-size: {{ block.settings.title_font_size }}px;
+  }
+
+  .ai-status-box__list-{{ ai_gen_id }} {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+  }
+
+  .ai-status-box__item-{{ ai_gen_id }} {
+    margin-bottom: {{ block.settings.item_spacing }}px;
+    color: {{ block.settings.text_color }};
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .ai-status-box__item-{{ ai_gen_id }}:last-child {
+    margin-bottom: 0;
+  }
+
+  .ai-status-box__checkmark-{{ ai_gen_id }} {
+    color: {{ block.settings.checkmark_color }};
+    font-weight: 700;
+  }
+
+  .ai-status-box__label-{{ ai_gen_id }} {
+    font-weight: 400;
+  }
+
+  .ai-status-box__status-{{ ai_gen_id }} {
+    font-weight: 400;
+  }
+
+  .ai-status-box__status-{{ ai_gen_id }}--online {
+    color: {{ block.settings.status_online_color }};
+  }
+
+  .ai-status-box__status-{{ ai_gen_id }}--schedule {
+    color: {{ block.settings.status_schedule_color }};
+  }
+
+  @media screen and (max-width: 749px) {
+    .ai-status-box-{{ ai_gen_id }} {
+      max-width: 100%;
+      font-size: {{ block.settings.font_size | times: 0.9 }}px;
+    }
+  }
+{% endstyle %}
+
+<div class="ai-status-box-{{ ai_gen_id }}" {{ block.shopify_attributes }}>
+  {% if block.settings.title != blank %}
+    <p class="ai-status-box__title-{{ ai_gen_id }}">{{ block.settings.title }}</p>
+  {% endif %}
+  
+  <ul class="ai-status-box__list-{{ ai_gen_id }}">
+    {% if block.settings.show_item_1 %}
+      <li class="ai-status-box__item-{{ ai_gen_id }}">
+        <span class="ai-status-box__checkmark-{{ ai_gen_id }}">{{ block.settings.checkmark_symbol }}</span>
+        <span class="ai-status-box__label-{{ ai_gen_id }}">{{ block.settings.item_1_label }}</span>
+        <span class="ai-status-box__status-{{ ai_gen_id }} ai-status-box__status-{{ ai_gen_id }}--online">{{ block.settings.item_1_status }}</span>
+      </li>
+    {% endif %}
+    
+    {% if block.settings.show_item_2 %}
+      <li class="ai-status-box__item-{{ ai_gen_id }}">
+        <span class="ai-status-box__checkmark-{{ ai_gen_id }}">{{ block.settings.checkmark_symbol }}</span>
+        <span class="ai-status-box__label-{{ ai_gen_id }}">{{ block.settings.item_2_label }}</span>
+        <span class="ai-status-box__status-{{ ai_gen_id }} ai-status-box__status-{{ ai_gen_id }}--schedule">{{ block.settings.item_2_status }}</span>
+      </li>
+    {% endif %}
+    
+    {% if block.settings.show_item_3 %}
+      <li class="ai-status-box__item-{{ ai_gen_id }}">
+        <span class="ai-status-box__checkmark-{{ ai_gen_id }}">{{ block.settings.checkmark_symbol }}</span>
+        <span class="ai-status-box__label-{{ ai_gen_id }}">{{ block.settings.item_3_label }}</span>
+        <span class="ai-status-box__status-{{ ai_gen_id }}">{{ block.settings.item_3_status }}</span>
+      </li>
+    {% endif %}
+  </ul>
+</div>
+
+{% schema %}
+{
+  "name": "Status check",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Content"
+    },
+    {
+      "type": "inline_richtext",
+      "id": "title",
+      "label": "Title",
+      "default": "Status Check:"
+    },
+    {
+      "type": "text",
+      "id": "checkmark_symbol",
+      "label": "Checkmark symbol",
+      "default": "✓"
+    },
+    {
+      "type": "header",
+      "content": "Item 1"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_item_1",
+      "label": "Show item 1",
+      "default": true
+    },
+    {
+      "type": "text",
+      "id": "item_1_label",
+      "label": "Label",
+      "default": "Production:"
+    },
+    {
+      "type": "text",
+      "id": "item_1_status",
+      "label": "Status",
+      "default": "Online"
+    },
+    {
+      "type": "header",
+      "content": "Item 2"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_item_2",
+      "label": "Show item 2",
+      "default": true
+    },
+    {
+      "type": "text",
+      "id": "item_2_label",
+      "label": "Label",
+      "default": "Shipping:"
+    },
+    {
+      "type": "text",
+      "id": "item_2_status",
+      "label": "Status",
+      "default": "On Schedule"
+    },
+    {
+      "type": "header",
+      "content": "Item 3"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_item_3",
+      "label": "Show item 3",
+      "default": false
+    },
+    {
+      "type": "text",
+      "id": "item_3_label",
+      "label": "Label",
+      "default": "Support:"
+    },
+    {
+      "type": "text",
+      "id": "item_3_status",
+      "label": "Status",
+      "default": "Available"
+    },
+    {
+      "type": "header",
+      "content": "Style"
+    },
+    {
+      "type": "range",
+      "id": "max_width",
+      "min": 200,
+      "max": 800,
+      "step": 20,
+      "unit": "px",
+      "label": "Maximum width",
+      "default": 400
+    },
+    {
+      "type": "range",
+      "id": "padding",
+      "min": 5,
+      "max": 40,
+      "step": 5,
+      "unit": "px",
+      "label": "Padding",
+      "default": 15
+    },
+    {
+      "type": "range",
+      "id": "margin_top",
+      "min": 0,
+      "max": 80,
+      "step": 5,
+      "unit": "px",
+      "label": "Margin top",
+      "default": 20
+    },
+    {
+      "type": "range",
+      "id": "margin_bottom",
+      "min": 0,
+      "max": 80,
+      "step": 5,
+      "unit": "px",
+      "label": "Margin bottom",
+      "default": 20
+    },
+    {
+      "type": "range",
+      "id": "border_radius",
+      "min": 0,
+      "max": 20,
+      "step": 2,
+      "unit": "px",
+      "label": "Border radius",
+      "default": 0
+    },
+    {
+      "type": "header",
+      "content": "Colors"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Background",
+      "default": "#ffffff"
+    },
+    {
+      "type": "color",
+      "id": "border_color",
+      "label": "Border",
+      "default": "#e0e0e0"
+    },
+    {
+      "type": "color",
+      "id": "title_color",
+      "label": "Title",
+      "default": "#171717"
+    },
+    {
+      "type": "color",
+      "id": "text_color",
+      "label": "Text",
+      "default": "#171717"
+    },
+    {
+      "type": "color",
+      "id": "checkmark_color",
+      "label": "Checkmark",
+      "default": "#171717"
+    },
+    {
+      "type": "color",
+      "id": "status_online_color",
+      "label": "Online status",
+      "default": "#008000"
+    },
+    {
+      "type": "color",
+      "id": "status_schedule_color",
+      "label": "Schedule status",
+      "default": "#008000"
+    },
+    {
+      "type": "header",
+      "content": "Typography"
+    },
+    {
+      "type": "range",
+      "id": "title_font_size",
+      "min": 12,
+      "max": 24,
+      "step": 1,
+      "unit": "px",
+      "label": "Title size",
+      "default": 14
+    },
+    {
+      "type": "range",
+      "id": "font_size",
+      "min": 10,
+      "max": 20,
+      "step": 1,
+      "unit": "px",
+      "label": "Text size",
+      "default": 14
+    },
+    {
+      "type": "range",
+      "id": "title_spacing",
+      "min": 5,
+      "max": 30,
+      "step": 5,
+      "unit": "px",
+      "label": "Title spacing",
+      "default": 10
+    },
+    {
+      "type": "range",
+      "id": "item_spacing",
+      "min": 0,
+      "max": 20,
+      "step": 2,
+      "unit": "px",
+      "label": "Item spacing",
+      "default": 8
+    }
+  ],
+  "presets": [
+    {
+      "name": "Status check"
+    }
+  ]
+}
+{% endschema %}
